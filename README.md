@@ -34,13 +34,17 @@ The main challenge I encountered was using the COUNTIF formula. I struggled figu
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The conclusions that can be drawn about the Outcomes based on Launch Date are that firstly, theater projects have more successful outcomes in all months over the canceled and failed outcomes. Secondly, theater projects saw the largest count of successful outcomes between the months of May and June. From this we can assume that overall a theater project will have a good chance to meet it's campaign goal and that the best time to launch a theater project is between May and June. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 The conclusion that can be made about the Outcomes based on Goals are that play projects have the greatest chance of having a successful outcome if the goal amount is $5000 and under. The percentage of successful outcomes in this range is over 70%. The second goal amount bracket that play projects see the most successful outcomes are between the goal amounts $35 000 and $44 9999. The percentage of successful outcomes in this range is over 60%. However, the overall number of play projects drops significantly after the $25 000 bracket. 95% of all total plays have goal amounts of under $25 000. 
 
 - What are some limitations of this dataset?
+
 A limitation of this dataset is that the contains only data from 2009 to 2017 which aggregated into our line graph. How a kickstarter project will perform in an individual year can vary based on many circumstantial factors. From 2019 and onwards, the world has faced a global pandemic which would have very likely affected any theater projects and theater related project campaigns. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 Other possible tables/graphs that could be created include bar charts that compare theater or play projects by country and tables that compare the goal amount and the amount pledged for theater and plays based on outcome. 
